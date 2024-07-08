@@ -1,0 +1,27 @@
+#header{
+    background-color: bisque;
+}
+
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 30%;
+    background-color:blueviolet;
+}
+#main{
+    flex:20%;
+    background-color: white;
+    padding: 10px;
+}
+
+body{
+    background-color: blueviolet;
+}
+.form-inline input {
+    vertical-align: middle;
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
